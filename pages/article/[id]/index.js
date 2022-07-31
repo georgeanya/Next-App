@@ -40,4 +40,19 @@ export const getStaticPaths = async () => {
   };
 };
 
+
+
+
+var num = 08033036959
+function Identify () {
+    if (num.toString[1] = 0)  {
+        console.log(true)    
+    }
+    else {
+        console.log(false)
+    }
+}
+
+Identify(num)
+
 export default article;
